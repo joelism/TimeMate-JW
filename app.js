@@ -1,0 +1,1 @@
+document.getElementById('view').innerHTML='<p>App geladen</p>'
