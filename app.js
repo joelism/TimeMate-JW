@@ -1,1 +1,0 @@
-document.getElementById('view').innerHTML='<p>TimeMate JW läuft jetzt als PWA (Root-Version).</p>'
